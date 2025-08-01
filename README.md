@@ -11,4 +11,6 @@ https://t.me/JunZi_Xposed_Hook_Chat
 
 竖屏UI调整透明度
 
+竖屏播放下隐藏通知栏
+
 注入图集解析插件
