@@ -14,3 +14,5 @@ https://t.me/JunZi_Xposed_Hook_Chat
 竖屏播放下隐藏通知栏
 
 注入图集解析插件
+
+精简布局
