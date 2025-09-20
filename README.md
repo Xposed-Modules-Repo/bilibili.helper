@@ -1,4 +1,4 @@
-# bilibili Helper
+# BAuxiliary
 哔哩哔哩基础增强
 # 欢迎加入TG频道
 https://t.me/JunZi_Xposed_Hook
